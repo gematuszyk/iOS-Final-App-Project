@@ -19,7 +19,7 @@ Proportions appear the best on an iPhone 5 or 5s.
 
 ![Demo8](https://cloud.githubusercontent.com/assets/16784983/21476050/b36f1aa4-cb01-11e6-8584-c281909e7540.gif "Title8")
 
-![Demo9](https://cloud.githubusercontent.com/assets/16784983/21475862/873efcbc-caff-11e6-8922-d6cf2d868165.gif "Title9")
+![Demo9](https://cloud.githubusercontent.com/assets/16784983/21476058/d23b2112-cb01-11e6-8de9-4b6d93d2420a.gif "Title9")
 
 ![Demo10](https://cloud.githubusercontent.com/assets/16784983/21475862/873efcbc-caff-11e6-8922-d6cf2d868165.gif "Title10")
 
