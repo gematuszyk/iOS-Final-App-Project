@@ -11,7 +11,7 @@ Proportions appear the best on an iPhone 5 or 5s.
 ![Demo2](https://cloud.githubusercontent.com/assets/16784983/21475862/873efcbc-caff-11e6-8922-d6cf2d868165.gif "Donation Statistics")
   
 <h2>Donate Money Page</h2>
-![Demo3](https://cloud.githubusercontent.com/assets/16784983/21475931/43782714-cb00-11e6-960f-573d67503643.gif "Food Bank List")
+![Demo3](https://cloud.githubusercontent.com/assets/16784983/21475931/43782714-cb00-11e6-960f-573d67503643.gif "Food Bank List")<p>hello</p>
 ![Demo4](https://cloud.githubusercontent.com/assets/16784983/21475950/793d05fe-cb00-11e6-97dc-5a3f9e0e61bb.gif "Billing Form")
 
 <h2>Donate Food Page</h2>
