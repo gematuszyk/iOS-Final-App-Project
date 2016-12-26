@@ -5,9 +5,9 @@
 FoodForAll is an app that simplifies the process of donating to Food Banks and helps companies and business schedule calls to discuss food donation options.
 
 Proportions appear the best on an iPhone 5 or 5s.
+![Alt text](/Users/gracematuszyk/Desktop/gifs/clip1.gif "Title")
+<img src="/Users/gracematuszyk/Desktop/gifs/clip1.gif">
 
-<img src="/Users/gracematuszyk/Desktop/gifs/clip1.gif" alt="Smiley face" height="42" width="42">
-Try it Yourself »
 
 
 
