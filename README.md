@@ -7,7 +7,7 @@ FoodForAll is an app that simplifies the process of donating to Food Banks and h
 Proportions appear the best on an iPhone 5 or 5s.
 
 <h2>Homepage</h2>
-<p>Shows the total amount of money donated to all the food banks in the U.S. through the app.  When you scroll down you are able to see which food banks have donated the most money.</p>
+<p>Shows the total amount of money donated to all the food banks in the U.S. through the app.  When you scroll down you are able to see which food banks have donated the most money to encourage others to donate.</p>
 ![Demo1](https://cloud.githubusercontent.com/assets/16784983/21475804/d5ca3ba4-cafe-11e6-971a-3240ed96b671.gif "Homepage")    
 ![Demo2](https://cloud.githubusercontent.com/assets/16784983/21475862/873efcbc-caff-11e6-8922-d6cf2d868165.gif "Donation Statistics")
   
